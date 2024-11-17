@@ -7,7 +7,7 @@
 > **Key Features:**
 > - Utilizes the Human Detection Dataset featuring CCTV footage in diverse environments.
 > - Implements standardized image preprocessing (resizing, normalization).
-> - Includes training, validation, and testing pipelines for AlexNet and VGG models.
+> - Includes training, validation, and testing for AlexNet and VGG models.
 > - Incorporates object detection and pose estimation for classified images.
 >
 > **Applications:** ....
